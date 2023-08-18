@@ -1,3 +1,3 @@
-Crypto
+crypto
 
-A very simple encryption and decryption program for educational purposes only.
+Simple encryption for training purposes only.

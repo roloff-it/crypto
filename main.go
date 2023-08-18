@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/roloff-it/cypto/decrypt"
-	"github.com/roloff-it/cypto/encrypt"
+	"github.com/roloff-it/crypto/decrypt"
+	"github.com/roloff-it/crypto/encrypt"
 )
 
 func main() {

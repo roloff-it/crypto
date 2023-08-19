@@ -1,6 +1,6 @@
 package main
 
-// Version: v0.1.2
+// Version: v0.1.1
 
 import (
 	"fmt"

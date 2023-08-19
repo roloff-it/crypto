@@ -1,5 +1,7 @@
 package main
 
+// version: v0.1.2
+
 import (
 	"fmt"
 
